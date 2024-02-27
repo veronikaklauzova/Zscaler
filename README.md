@@ -1,7 +1,7 @@
 # Zscaler
 
 Table of Contents
-[Postman Collection - Workflows - Use cases](#Postman-Collection-Workflows-Use-cases)
+- [Postman Collection - Workflows - Use cases](https://github.com/veronikaklauzova/Zscaler/tree/main?tab=readme-ov-file#postman-collection---workflows---use-cases)
 
 ### Postman Collection - Workflows - Use cases
 
