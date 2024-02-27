@@ -1,6 +1,7 @@
 # Zscaler
 
-.. contents::
+Table of Contents
+[Postman Collection - Workflows - Use cases](#Postman-Collection-Workflows-Use-cases)
 
 ### Postman Collection - Workflows - Use cases
 
