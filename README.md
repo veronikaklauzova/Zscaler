@@ -7,9 +7,10 @@
 
 ##### App Connector Health Monitoring
 1. Download Postman Collection - [App Connector Health Monitoring](https://github.com/veronikaklauzova/Zscaler/blob/main/Postman%20Collections/ZPA/ZPA_App-Connector-Health-Monitoring.postman_collection.json)
-2. Open Postman application, then navigate to "File" > "Import" and drag and drop previously downloaded file in pop-up screen
-3. Create a new environment: "File" > "New" > "Environment"
-- enter name of the envrionment ie. ZPA
+2. Open Postman application, then navigate to `File > Import` and drag and drop previously downloaded file in pop-up screen
+3. Create a new environment: `File > New > Environment`
+- enter `name` of the envrionment ie. ZPA
+4. 
 
 Expand imported folder named "ZPA - App Connector Health Monitoring"
 
