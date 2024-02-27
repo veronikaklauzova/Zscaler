@@ -1,11 +1,22 @@
+Note: this readme and github repository is under developement.
+
 # Zscaler
 
 Table of Contents
 - [Postman Collection - Workflows - Use cases](https://github.com/veronikaklauzova/Zscaler/tree/main?tab=readme-ov-file#postman-collection---workflows---use-cases)
+    - [ZIA](https://github.com/veronikaklauzova/Zscaler/tree/main?tab=readme-ov-file#zia)
+    - [ZPA](https://github.com/veronikaklauzova/Zscaler/tree/main?tab=readme-ov-file#zpa)
+        - [App Connector Health Monitoring](https://github.com/veronikaklauzova/Zscaler/tree/main?tab=readme-ov-file#app-connector-health-monitoring)
+    - [ZDX](https://github.com/veronikaklauzova/Zscaler/tree/main?tab=readme-ov-file#zdx)
+- [Postman Flows - Visualizations - Use case](https://github.com/veronikaklauzova/Zscaler/tree/main?tab=readme-ov-file#postman-flows---visualizations---use-case)
+    - [ZIA](https://github.com/veronikaklauzova/Zscaler/tree/main?tab=readme-ov-file#zia-1)
+    - [ZPA](https://github.com/veronikaklauzova/Zscaler/tree/main?tab=readme-ov-file#zpa-1)
+    - [ZDX](https://github.com/veronikaklauzova/Zscaler/tree/main?tab=readme-ov-file#zdx-1)
 
 ### Postman Collection - Workflows - Use cases
 
 #### ZIA
+
 #### ZPA
 
 ##### App Connector Health Monitoring
@@ -41,5 +52,7 @@ Add the following variables:
 ### Postman Flows - Visualizations - Use case
 
 #### ZIA
+
 #### ZPA
+
 #### ZDX
