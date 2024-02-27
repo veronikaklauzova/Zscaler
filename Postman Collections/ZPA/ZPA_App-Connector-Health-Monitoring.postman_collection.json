@@ -72,7 +72,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://config.private.zscaler.com/mgmtconfig/v1/admin/customers/288257368947425280/connector",
+					"raw": "https://config.private.zscaler.com/mgmtconfig/v1/admin/customers/{{customerId}}/connector",
 					"protocol": "https",
 					"host": [
 						"config",
@@ -85,7 +85,7 @@
 						"v1",
 						"admin",
 						"customers",
-						"288257368947425280",
+						"{{customerId}}",
 						"connector"
 					]
 				}
